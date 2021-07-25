@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dDushyanth
+- 👋 Hi, I’m @Dushyanth
 - 🌱 I’m currently working on Devops AWS Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: vdushyanth493@gmail.com
